@@ -2,7 +2,7 @@
 //MCP_ADC.h LIBRARY AUTHOR: Rob Tillaart da installare 
 //L'ADC MCP3001 ha un solo canale ossia può acquisire un solo segnale da un solo sensore 
 //Piedino 10 Chip select (attivo basso) 
-//Piedino 13 SCL Clockù
+//Piedino 13 SCL Clock
 //Piedino 12 MISO Master In Slave Out
 //Non esiste un piedino MOSI Master Out Slave In
 
